@@ -80,3 +80,8 @@
 
 - **Trimise săptămâna asta:**
 - **Răspunsuri / interviuri programate:**
+
+13.09 Day 00 Mackup day inainte sa incep efectiv planul :
+- **Ziua 0:** convenții man — secțiuni, SYNOPSIS, navigare, apropos. Grilă 8/10.
+- **Banc:** apropos vs info · mandb vs updatedb
+
